@@ -1,10 +1,16 @@
 _repo: The-Bird-Hospital_48949
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48949-h/images/cover.jpg
 creator:
   author:
     agent_name: Bascom, Caroline Crowninshield
     gutenberg_agent_id: '45055'
     url: http://www.gutenberg.org/2009/agents/45055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48949#The-Bird-Hospital
 gutenberg_issued: '2015-05-13'
 gutenberg_type: Text
 identifiers:
